@@ -24,3 +24,6 @@ Nguyễn Thị Thùy Dung- 17IT2  MÃ ĐỀ:1
 
      - Click trái vào thư mục hay tệp tin cần sao chép ở cửa sổ bên phải hay trái đều được rồi nhấn nút "Copy".
      - Click trái vào nơi muốn chuyển thư mục hay tệp tin đến và nhấn nút "Paste".
+     
+     
+     Video hướng dẫn sử dụng: https://www.youtube.com/watch?v=qRN_dve0HPc
