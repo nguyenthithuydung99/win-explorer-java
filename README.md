@@ -5,6 +5,7 @@ Nguyễn Thị Thùy Dung- 17IT2  MÃ ĐỀ:1
 1/ Giới thiệu FileExplorer.
 
 1.1/ Chạy FileExplorer.java.
+
 1.2/ Cửa sổ của File Explorer
 
     - Cửa sổ bên trái: là cây thư mục liệt kê tất cả các tài nguyên của máy: các ổ đĩa, thư mục, tập tin,…
