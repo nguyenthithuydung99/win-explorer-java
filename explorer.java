@@ -1,4 +1,4 @@
-package Thigiuaky;
+package thigiuaky;
 
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
@@ -23,7 +23,7 @@ import java.net.URL;
 import java.nio.file.Files;
 import java.awt.FlowLayout;
 
-public class explorer {
+public class dungmc {
 
 	public static final String APP_TITLE = "Thuy-Dung";
 	private Desktop desktop;
