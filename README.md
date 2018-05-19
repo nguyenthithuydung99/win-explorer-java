@@ -21,5 +21,6 @@ Nguyễn Thị Thùy Dung- 17IT2  MÃ ĐỀ:1
 2.1/ Mở thư mục: Khi click lên đối tượng (thư mục hoặc tệp tin) bên cửa sổ bên phải và nhấn vào nút "Open" thì đối tượng đó sẽ được mở lên và hiển thị những file có trong đối tượng ở cửa sổ bên phải.
 
 2.2/ Di chuyển thư mục, tệp tin
+
      - Click trái vào thư mục hay tệp tin cần sao chép ở cửa sổ bên phải hay trái đều được rồi nhấn nút "Copy".
      - Click trái vào nơi muốn chuyển thư mục hay tệp tin đến và nhấn nút "Paste".
